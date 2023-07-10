@@ -2,3 +2,53 @@
     margin: 0px;
     padding: 0px;
 }
+
+/* Heading styles */
+.heading-flower{
+    background-color: rgb(245, 228, 231);
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    align-items: end;
+    text-align: center;
+}
+.heading-text{
+    margin-bottom: 60px;
+    padding: 10px;
+}
+.flower-head{
+    align-items: center;
+    margin-left: 4px;
+    /* border-left: 1px solid #000; */
+    color: #272727;
+font-size: 40px;
+margin-bottom: 32px;
+font-family: Lato;
+font-weight: 800;
+word-wrap:break-word;
+
+}
+.heading-para{
+color: rgba(39, 39, 39, 0.60);
+ font-size: 18px;
+ /* font-family: Lato; */
+ font-weight: 400;
+ margin-bottom: 32px;
+ /* line: height 20px; */
+ word-wrap: break-word;
+}
+
+.heading-btn{
+    color: white;
+font-size: 20px;
+padding: 15px 20px;
+background-color: rgb(211, 97, 116) ;
+font-weight: 700;
+word-wrap: break-word;
+border-radius: 5px;
+box-shadow: rgb(211, 97, 116) ;
+}
+/* .heading-img{ */
+    height: 100%;
+    width: 100%;
+}
