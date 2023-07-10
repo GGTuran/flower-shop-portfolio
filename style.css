@@ -100,3 +100,113 @@ box-shadow: rgb(211, 97, 116) ;
     align-items: center;
     background: rgba(39, 39, 39, 0.05); border-radius: 8px;
 }
+
+
+/* sign-up styles */
+.sign-up{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+    background: rgba(229, 84, 115, 0.05); border-radius: 8px;
+    height: 500px;
+    margin-bottom: 80px;
+}
+.sale-head{
+    color: #272727;
+font-size: 35px;
+margin-bottom: 7px;
+
+
+font-weight: 800;
+}
+.sale-para{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+margin-bottom: 7px;
+font-weight: 400;
+line-height: 30px;
+}
+.sale-img{
+    align-items: center;
+    /* size: 70%; */
+}
+/* instagram */
+.insta{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 80px;
+    padding: 80px;
+}
+.insta-head{
+    color:black;
+font-size: 40px;
+margin-bottom: 7px;
+font-weight: 800;
+
+}
+.insta-para{
+    color:gray;
+    margin-bottom: 45px;
+font-size: 18px;
+
+font-weight: 400;
+}
+.insta-img{
+    padding: auto;
+}
+.deal{
+    align-items: center;
+    text-align: center;
+}
+/* deal style */
+.deal{
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    background-image:  url(./image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    border-radius: 8px;
+    text-align:center;
+    margin-bottom: 80px;
+}
+.deal-head{
+    color: #272727;
+font-size: 40px;
+margin-top: 140px;
+top: 140px;
+font-weight: 800;
+
+
+}
+.deal-para{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.input{
+    /* display: flex; */
+    /* justify-content:; */
+    width: 500px;
+    height: 25px;
+}
+.sub-btn{
+    color: white;
+font-size: 20px;
+font-weight: 700;
+width: 10%; height: 100%;
+ background: rgb(201, 51, 64);
+ border-radius: 8px;
+ margin-top: 4px;
+}
+
+/* footer style */
+.foot-div{
+    height: 60vh;
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
