@@ -171,19 +171,19 @@ font-weight: 400;
     background-size:contain;
     border-radius: 8px;
     text-align:center;
+    align-items: center;
     margin-bottom: 80px;
 }
 .deal-head{
     color: #272727;
 font-size: 40px;
-margin-top: 140px;
-top: 140px;
+padding-top: 50px;
 font-weight: 800;
 
 
 }
 .deal-para{
-    margin-top: 80px;
+    /* margin-top: 80px; */
     margin-bottom: 30px;
 }
 .input{
@@ -203,27 +203,36 @@ width: 10%; height: 100%;
 }
 
 /* footer style */
+
 .foot-div{
-    height: 40vh;
-    background-color: black;
-    color: white;
-    align-items: center;
+    height: 35vh;
     text-align: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding-top: 80px;
 }
+
+
+
+
 .foot-head{
     align-items: center;
     text-align: center;
-    color: #E55473;
+    color:white;
 font-size: 48px;
 font-weight: 800;
 }
 .foot-para{
-    color: rgba(255, 255, 255, 0.90);
-font-size: 18px;
+    color: rgba(184, 184, 184, 0.9);
+font-size: 12px;
 font-weight: 400;
+margin-top: 20px;
+
 }
 .foot-para1{
     color: rgba(255, 255, 255, 0.40);
-font-size: 16px;
+font-size: 8px;
 font-weight: 400;
+margin-top: 25px;
 }
